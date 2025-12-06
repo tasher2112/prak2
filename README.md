@@ -5,7 +5,7 @@ usage: git [-v | --version] [-h | --help] [-C <path>] [-c <name>=<value>]
            [--work-tree=<path>] [--namespace=<name>] [--config-env=<name>=<envvar>]
            <command> [<args>]
 
-These are common Git commands used in various situations:
+These are common Git commands used in various situations: 7777
 
 start a working area (see also: git help tutorial)
    clone      Clone a repository into a new directory
